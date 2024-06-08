@@ -2,14 +2,15 @@
   box-sizing: border-box;
   margin: 0px;
   padding: 0px;
-  max-width: 1000000000000000000;
+
 }
 body {
   font-family: "poppins", sans-serif;
   background-repeat: no-repeat;
-  background: url("pexels-pixabay-355747.jpg");
-  background-size: cover;
+  background-image: url("pexels-pixabay-355747.jpg");
+  background-size: contain;
   background-repeat: no-repeat;
+  
 }
 /* for nav bar */
 .head {
