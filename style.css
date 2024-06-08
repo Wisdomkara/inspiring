@@ -201,10 +201,9 @@ main {
   justify-content: space-between;
   align-items: center;
   padding: 10px;
-  color: rgb(250, 250, 250);
+  color: white;
   font-size: 3rem;
-  z-index: 1000000000;
-  
+  z-index: 100000000;
 }
 
 .left,
@@ -214,30 +213,6 @@ main {
 }
 
 /* Media queries to adjust layout for smaller screens */
-@media (max-width: 600px) {
-  .icons {
-    justify-content: space-around;
-  }
-
-  .left,
-  .right {
-    font-size: 3rem;
-    padding: 10rem;
-  }
-}
-
-@media (max-width: 400px) {
-  .icons {
-    flex-direction: column;
-    align-items: center;
-  }
-
-  .left,
-  .right {
-    font-size: 2rem;
-    margin: 5px 0;
-  }
-}
 
 .heading {
   display: block;
@@ -369,26 +344,27 @@ section .intro h1 {
 
 /* reltionship contaner */
 .relationship {
-  background-image: url("./couple-8019370_1280.jpg");
+  background-image: url("couple-8019370_1280.jpg");
 }
 /* for mindset */
 .mindset {
-  background-image: url("./ai-generated-8684971_1280.jpg");
+  background-image: url("ai-generated-8684971_1280.jpg");
 }
 .creativity {
-  background-image: url("./light-bulb-4514505_1280.jpg");
+  background-image: url("light-bulb-4514505_1280.jpg");
 }
 .success {
-  background-image: url("./success.jpg");
+  background-image: url("success.jpg");
 }
 .wisdom {
-  background-image: url("wisdp.jpg");
+  background: url('wisdp.jpg');
+  background-size: contain;
 }
 .encouragement {
-  background-image: url("./pexels-kamaji-ogino-5064673\ \(1\).jpg");
+  background-image: url("pexels-kamaji-ogino-5064673\ \(1\).jpg");
 }
 .family {
-  background-image: url("./pexels-august-de-richelieu-4259140\ \(1\).jpg");
+  background-image: url("pexels-august-de-richelieu-4259140\ \(1\).jpg");
 }
 .growth {
   background-image: url("investment-5241253_1280.jpg");
@@ -493,6 +469,37 @@ section .intro h1 {
     font-size: 10px;
   }
 }
+@media (max-width: 600px) {
+  .icons {
+    justify-content: space-around;
+  }
 
+  .left,
+  .right {
+    font-size: 3rem;
+    padding: 10rem;
+  }
+  .quoteCategory {
+    font-size: 13px;
+    display: flex;
+    justify-content: center;
+  }
+}
 
+@media (max-width: 400px) {
+  .icons {
+    flex-direction: column;
+    align-items: center;
+  }
 
+  .left,
+  .right {
+    font-size: 2rem;
+    margin: 5px 0;
+  }
+  .quoteCategory {
+    font-size: 13px;
+    display: flex;
+    justify-content: center;
+  }
+}
