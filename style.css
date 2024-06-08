@@ -81,7 +81,7 @@ a li:hover {
   right: -1%;
   height: 0px;
   border-radius: 5px;
-  z-index: 9999;
+  z-index: 10000000;
 }
 .dropdown_menu.active {
   height: 300px;
