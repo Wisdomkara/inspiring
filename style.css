@@ -4,15 +4,7 @@
   padding: 0px;
 
 }
-body {
-  font-family: "poppins", sans-serif;
-  background-repeat: no-repeat;
-  background-image: url("pexels-pixabay-355747.jpg");
-  background-size: contain;
-  background-repeat: no-repeat;
-  
-  
-}
+
 /* for nav bar */
 .head {
   color: rgb(27, 1, 1);
@@ -21,23 +13,24 @@ body {
   cursor: pointer;
 }
 .head:hover {
-  color: rgb(9, 236, 180);
+  color: rgb(194, 237, 226);
 }
 span {
   color: rgb(255, 136, 0);
 }
 span:hover {
-  color: rgb(0, 212, 0);
+  color: rgb(0, 0, 0);
 }
 .navlist {
   color: rgb(14, 13, 13);
-  font-family: "Times New Roman", Times, serif;
+  font-family: "roboto",serif;
   text-transform: capitalize;
 }
 
 .list a {
   display: inline-block;
   color: rgb(255, 255, 255);
+  
   text-decoration: none;
  font-family: "Roboto", sans-serif;
   font-weight: 900;
@@ -51,6 +44,7 @@ a li {
 }
 a li:hover {
   color: rgb(255, 136, 0);
+
 }
 .header {
   
@@ -60,7 +54,7 @@ a li:hover {
   align-items: center;
   background-color:#1D3557;
   padding: 10px;
-  box-shadow: 0px 0px rgb(255, 255, 255), 0px 0px 20px rgb(215, 130, 11);
+  box-shadow: 0px 0px rgb(255, 255, 255), 0px 0px 10px rgb(215, 130, 11);
   max-width: 600rem;
 }
 .social a {
@@ -102,11 +96,27 @@ main {
   height: 90vh;
   display: flex;
   justify-content: center;
-  align-items: center;
-  background-repeat: no-repeat;
-  background: url("pexels-pixabay-355747.jpg");
-  background-size: cover;
-  background-repeat: no-repeat;
+  align-items: center; 
+}
+/* video styling */
+.hero {
+    position: relative;
+    height: 100vh;
+    max-width: 100%;
+    overflow: hidden;
+}
+#heroVideo {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    min-width: 100%;
+    min-height: 100%;
+    width: auto;
+    height: auto;
+    z-index: -1;
+    transform: translate(-50%, -50%);
+    object-fit: cover;
+    opacity: 1.0; /* Adjust opacity to make text stand out */
 }
 
 /* container */
@@ -280,7 +290,7 @@ main {
 /* content stylig for relationship container */
 
 .newquotes {
-  background-color: #4ABDAC;
+  background-color:#1D3557;
   color: whitesmoke;
   border-radius: 5px;
   margin-top: 10px;
@@ -315,11 +325,15 @@ section {
   padding: 0px;
   box-sizing: border-box;
 }
+
 section .intro h1 {
   text-transform: uppercase;
   font-size: 35px;
-  margin-left: 3rem;
-  font-family: sans-serif;
+  font-family: "roboto",sans-serif;
+  text-align: center;
+  margin-top: 50px;
+
+
 }
 /*  for the quotes category */
 .contains {
