@@ -103,32 +103,17 @@ a li:hover {
 }
 
 .content {
-  position: absolute;
+  position: relative;
   top: 50%;
   left: 5%;
-  transform: translateY(-50%);
+ 
 }
 /* button text syling */
-h1 {
-  color: rgb(17, 17, 17);
-  margin: 20px 0px 20px;
-  font-size: 75px;
-}
-h3 {
-  color: white;
-  font-size: 25px;
-  margin-bottom: 50px;
-}
-h4 {
-  color: rgba(255, 255, 255, 0.8);
-  letter-spacing: 2px;
-  font-size: 30px;
-}
 /* form stlying */
 .newsletter form {
   width: 380px;
   max-width: 100%;
-  position: relative;
+  position: absolute;
 }
 
 .newsletter form input:first-child {
