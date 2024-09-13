@@ -5,6 +5,31 @@
 
 }
 
+/* this will prevent it from scrolling horzontally */
+body, html {
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden; /* Prevent horizontal scrolling */
+}
+.hero {
+    position: relative;
+    height: 100vh;
+    overflow: hidden;
+}
+#heroVideo {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    min-width: 100%;
+    min-height: 100%;
+    width: auto;
+    height: auto;
+    z-index: -1;
+    transform: translate(-50%, -50%);
+    object-fit: cover;
+    opacity: 1.0; /* Adjust opacity to make text stand out */
+}
+
 /* for nav bar */
 .head {
   color: rgb(27, 1, 1);
@@ -13,13 +38,15 @@
   cursor: pointer;
 }
 .head:hover {
-  color: rgb(194, 237, 226);
+  color: rgb(253, 255, 254);
+  transition: all ease-in-out 0.4s;
 }
 span {
   color: rgb(255, 136, 0);
 }
 span:hover {
   color: rgb(0, 0, 0);
+  
 }
 .navlist {
   color: rgb(14, 13, 13);
@@ -44,6 +71,7 @@ a li {
 }
 a li:hover {
   color: rgb(255, 136, 0);
+  transition: all ease-in-out 0.4s;
 
 }
 .header {
@@ -54,12 +82,18 @@ a li:hover {
   align-items: center;
   background-color:#1D3557;
   padding: 10px;
-  box-shadow: 0px 0px rgb(255, 255, 255), 0px 0px 10px rgb(215, 130, 11);
+  box-shadow: 0px 0px rgb(255, 255, 255), 0px 0px 10px rgb(65, 65, 65);
   max-width: 600rem;
 }
+/* for social icon styling */
 .social a {
   color: rgb(0, 0, 0);
   font-size: 1.5em;
+}
+.social a:hover{
+  color: white;
+  transition: all 0.3s ease-in-out;
+
 }
 .toggle_btn {
   display: none;
@@ -99,25 +133,7 @@ main {
   align-items: center; 
 }
 /* video styling */
-.hero {
-    position: relative;
-    height: 100vh;
-    max-width: 100%;
-    overflow: hidden;
-}
-#heroVideo {
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    min-width: 100%;
-    min-height: 100%;
-    width: auto;
-    height: auto;
-    z-index: -1;
-    transform: translate(-50%, -50%);
-    object-fit: cover;
-    opacity: 1.0; /* Adjust opacity to make text stand out */
-}
+
 
 /* container */
 

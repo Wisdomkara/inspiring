@@ -1846,6 +1846,9 @@ function fetchQuote() {
 document.querySelector(".newquote6").addEventListener("click", function () {
   fetchQuote
 });
- 
 
-// authors
+// for video hero speed
+ window.addEventListener('load', function () {
+   const video = document.getElementById('heroVideo');
+   video.playbackRate = 0.8; // Set desired speed here, e.g., 0.5 for half speed
+ });
