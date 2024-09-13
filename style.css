@@ -11,6 +11,7 @@ body {
   background-size: contain;
   background-repeat: no-repeat;
   
+  
 }
 /* for nav bar */
 .head {
@@ -36,9 +37,11 @@ span:hover {
 
 .list a {
   display: inline-block;
-  color: rgb(14, 14, 14);
+  color: rgb(255, 255, 255);
   text-decoration: none;
-  font-family: "Times New Roman", Times, serif;
+ font-family: "Roboto", sans-serif;
+  font-weight: 900;
+  font-style: normal;
 }
 a li {
   text-decoration: none;
@@ -50,13 +53,14 @@ a li:hover {
   color: rgb(255, 136, 0);
 }
 .header {
+  
   display: flex;
   justify-content: space-between;
   position: relative;
   align-items: center;
-  background-color: white;
+  background-color:#1D3557;
   padding: 10px;
-  box-shadow: 0px 0px rgb(255, 255, 255), 0px 0px 20px cyan;
+  box-shadow: 0px 0px rgb(255, 255, 255), 0px 0px 20px rgb(215, 130, 11);
   max-width: 600rem;
 }
 .social a {
@@ -112,7 +116,7 @@ main {
   padding: 30px;
   position: absolute;
   max-width: 300px;
-  box-shadow: 0px 0px 10px grey, 0px 0px 10px cyan;
+  box-shadow: 0px 0px 10px grey, 0px 0px 10px ;
   border-radius: 10px;
   margin: 0px auto;
 
@@ -143,7 +147,7 @@ main {
   background-color: rgb(255, 255, 255);
   padding: 10px;
   max-width: 300px;
-  box-shadow: 0px 0px 10px grey, 0px 0px 10px cyan;
+  box-shadow: 0px 0px 10px grey, 0px 20px 10px #1D3557;
   border-radius: 10px;
   margin: 0px auto;
   align-items: center;
@@ -172,7 +176,7 @@ main {
   background-color: rgb(255, 255, 255);
   padding: 10px;
   max-width: 300px;
-  box-shadow: 0px 0px 10px grey, 0px 0px 10px cyan;
+  box-shadow: 0px 0px 10px grey, 0px 20px 10px #1D3557;
   border-radius: 10px;
   margin: 0px auto;
   align-items: center;
@@ -221,13 +225,16 @@ main {
   position: absolute;
   top: 8rem;
   display: inline-block;
-  background-color: rgb(17, 17, 17);
+  background-color:#1D3557;
   color: white;
   padding: 2px 2px 2px;
   border-radius: 10px;
   font-weight: bold;
   align-items: center;
   text-align: center;
+   font-family: "Roboto", sans-serif;
+  font-weight: 900;
+  font-style: normal;
 }
 .kara a {
   color: rgb(255, 255, 255);
@@ -273,7 +280,7 @@ main {
 /* content stylig for relationship container */
 
 .newquotes {
-  background-color: rgb(0, 0, 0);
+  background-color: #4ABDAC;
   color: whitesmoke;
   border-radius: 5px;
   margin-top: 10px;
@@ -303,7 +310,7 @@ main {
 }
 
 section {
-  background-color: white;
+  background-color: #F5F5F5;
   margin: 0px;
   padding: 0px;
   box-sizing: border-box;
@@ -314,13 +321,13 @@ section .intro h1 {
   margin-left: 3rem;
   font-family: sans-serif;
 }
-
+/*  for the quotes category */
 .contains {
   background-size: cover;
   background-position-x: center;
   max-width: 50vh;
   height: auto;
-  box-shadow: 0px 0px 10px grey, 0px 0px 10px cyan;
+ box-shadow: 0px 0px 10px grey, 10px 10px 10px #1D3557;
   border-radius: 10px;
   align-items: center;
   text-align: center;
@@ -381,7 +388,7 @@ section .intro h1 {
 }
 
 .rowstyling a {
-  color: rgb(0, 102, 255);
+  color:#1D3557;
 }
 .rowstyling {
   margin-left: 1rem;
@@ -389,7 +396,7 @@ section .intro h1 {
 
 /* java script linking */
 .quoteAnimation {
-  animation: zoomIn 2s ease-out;
+  animation: zoomIn 1s ease-out;
 }
 
 @keyframes zoomIn {
