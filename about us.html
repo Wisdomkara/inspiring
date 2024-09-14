@@ -10,34 +10,33 @@
     <link rel="stylesheet" href="about us.css" />
   </head>
   <body>
-    <nav class="header">
-      <h1 class="head"><span>I</span>nspired</h1>
+   <nav class="header">
+  <h1 class="head"><span>I</span>nspired</h1>
 
-      <div class="navlist">
-        <ul class="list">
-          <a href="index.html"><li>Home</li></a>
-          <a href="about us.html"><li>About us</li></a>
-          <a href="Authors.html"><li>Authors</li></a>
-          <a href="quote.html"><li>Add Quotes</li></a>
-        </ul>
-      </div>
-      <div class="social">
-        <a href="https://facebook.com"><i class="fa-brands fa-facebook"></i></a>
-        <a href="https://twitter.com"><i class="fa-brands fa-twitter"></i></a>
-        <a href="https://instagram.com"
-          ><i class="fa-brands fa-instagram"></i
-        ></a>
-      </div>
-      <!-- dropdown -->
-      <div class="toggle_btn"><i class="fa-solid fa-bars"></i></div>
+  <div class="navlist">
+    <ul class="list">
+      <a href="index.html"><li>Home</li></a>
+      <a href="about us.html"><li>About us</li></a>
+      <a href="Authors.html"><li>Authors</li></a>
+      <a href="quote.html"><li>Add Quotes</li></a>
+    </ul>
+  </div>
+  <div class="social">
+    <a href="https://facebook.com"><i class="fa-brands fa-facebook"></i></a>
+    <a href="https://twitter.com"><i class="fa-brands fa-twitter"></i></a>
+    <a href="https://instagram.com"><i class="fa-brands fa-instagram"></i></a>
+  </div>
+  <!-- dropdown -->
+  <div class="toggle_btn"><i class="fa-solid fa-bars"></i></div>
 
-      <div class="dropdown_menu active">
-        <a href="index.html"><li>Home</li></a>
-        <a href="about us.html"><li>About us</li></a>
-        <a href="Authors.html"><li>contact us</li></a>
-        <a href="quote.html"><li>Add Quotes</li></a>
-      </div>
-    </nav>
+  <div class="dropdown_menu">
+    <a href="index.html"><li>Home</li></a>
+    <a href="about us.html"><li>About us</li></a>
+    <a href="Authors.html"><li>contact us</li></a>
+    <a href="quote.html"><li>Add Quotes</li></a>
+  </div>
+</nav>
+
 
     <!-- main content -->
     <main>
@@ -94,23 +93,39 @@
         </div>
         <div class="img"><img src="/Css/photos/wizzy.png" alt="" /></div>
       </div>
+      <div class="help"><h1>we are here to help!!!</h1></div>
+      <div class="form-container">
+        <form action="" method="post" id="form">
+          <input
+            type="email"
+            name="email"
+            id="mail"
+            placeholder="Reach Out To Us" />
+          <input type="number" name="number" id="number" />
+
+          <input type="submit" id="submit" value="Submit" />
+        </form>
+      </div>
+
+      <!-- social reachout -->
+      <div class="reachout-container">
+        <div class="social-item facebook">
+          <a href="https://facebook.com/">
+            <i class="fa-brands fa-facebook"></i><span>Facebook</span>
+          </a>
+        </div>
+        <div class="social-item twitter">
+          <a href="https://twitter.com/">
+            <i class="fa-brands fa-twitter"></i><span>Twitter</span>
+          </a>
+        </div>
+        <div class="social-item instagram">
+          <a href="https://instagram.com/">
+            <i class="fa-brands fa-instagram"></i><span>Instagram</span>
+          </a>
+        </div>
+      </div>
     </main>
-   
-   <div class="form-container">
-  <form action="" method="" id="form">
-    <input
-      type="email"
-      name="email"
-      id="mail"
-      placeholder="Insert your email to get more updates"
-    />
-    <input type="number" name="number" id="number">
-    
-    <input type="submit" id="submit" value="Submit" />
-  </form>
-</div>
-
-
     <script src="about us.js"></script>
   </body>
 </html>
