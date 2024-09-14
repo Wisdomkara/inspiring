@@ -427,16 +427,6 @@ section .intro h1 {
 .gcse-search {
   font-size: 10px;
 }
-.row a {
-  text-decoration: none;
-}
-
-.rowstyling a {
-  color:#1D3557;
-}
-.rowstyling {
-  margin-left: 1rem;
-}
 
 /* java script linking */
 .quoteAnimation {

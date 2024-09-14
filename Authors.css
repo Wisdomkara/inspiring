@@ -125,6 +125,20 @@ span:hover {
   border-radius: 0px 80px 0px 50px;
 }
 
+.row a {
+  text-decoration: none;
+}
+
+.rowstyling a {
+  color:#1D3557;
+}
+.rowstyling {
+  margin-left: 1rem;
+}
+
+
+
+
 
 
 /* media queries */

@@ -19,7 +19,7 @@
       .quotestyle:hover {
         background-color: rgba(17, 17, 17, 0.733);
         color: white;
-        box-shadow: 0px 0px 10px cyan, 0px 0px 10px grey;
+        box-shadow: 0px 0px 10px rgb(16, 32, 154), 0px 0px 10px grey;
         transition: ease-in-out 0.3s;
       }
       .authorsname {
@@ -42,4 +42,8 @@
       }
       img{
         border-radius: 10px;
-      }
+        
+      }.row a {
+  text-decoration: none;
+}
+
