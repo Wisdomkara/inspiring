@@ -463,6 +463,11 @@ section .intro h1 {
     color: rgb(15, 14, 14);
     text-decoration: none;
   }
+  body, html {
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden; /* Prevent horizontal scrolling */
+}
 }
 @media (max-width: 434px) {
   .container {
@@ -486,6 +491,11 @@ section .intro h1 {
     max-height: fit-content;
     margin-top: 5rem;
   }
+  body, html {
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden; /* Prevent horizontal scrolling */
+}
 
   .heading,
   h4,
@@ -523,6 +533,11 @@ section .intro h1 {
     display: flex;
     justify-content: center;
   }
+  body, html {
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden; /* Prevent horizontal scrolling */
+}
 }
 
 @media (max-width: 400px) {
@@ -541,4 +556,9 @@ section .intro h1 {
     display: flex;
     justify-content: center;
   }
+  body, html {
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden; /* Prevent horizontal scrolling */
+}
 }
