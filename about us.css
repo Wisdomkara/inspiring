@@ -127,7 +127,7 @@ a li:hover {
 .dropdown_menu.active {
   height: 300px;
 }
-
+/* my main description with the titles and image stlying */
 h1 {
   font-family: 'roboto', sans-serif;
   color: rgb(255, 255, 255);
@@ -139,19 +139,25 @@ h1 {
 }
 .name {
   text-align: center;
+  padding: 30px 0px 30px 0px;
 }
 
 .content {
   display: grid;
   grid-template-columns: 2fr 2fr;
-  gap: 20px;
+  gap: 10px;
   align-items: start;
   max-width: 100%;
-
+  padding-left: 50px;
 }
 h2 {
   text-align: center;
   padding: 1em;
+  transition: transform 0.3s ease-in-out;
+}
+
+h2:hover {
+  transform: scale(0.7) ;
 }
 h4 {
   border-radius: 20px;
@@ -160,6 +166,96 @@ h4 {
   border-style: double;
   box-shadow: 0px 10px 10px grey;
   cursor: pointer;
+  transition: transform 0.3s ease;
+}
+h4:hover {
+  transform: scale(1.1);
+}
+
+img{
+  border-radius: 180px;
+  animation-name: slide;
+  animation-duration: 6s;
+  animation-iteration-count: infinite;
+  
+}
+
+@keyframes slide {
+  0% {
+    transform: translateY(0px);
+  }
+  50% {
+    transform: translateY(-10px);
+  }
+  0% {
+    transform: translateY(0px);
+  }
+}
+
+img:hover{
+  transition: all 0.6s ease-in-out;
+  filter: drop-shadow(10px 15px 50px yellow)
+}
+
+
+/* form styling */
+/* Container styling */
+.form-container {
+  display: flex;
+  justify-content: center; /* Centers the form horizontally */
+  align-items: center; /* Centers the form vertically */
+  min-height: 100vh; /* Full viewport height */
+  background-color: #f4f4f4; /* Light background color for contrast */
+  padding: 20px; /* Adds padding around the form container */
+}
+
+/* Form styling */
+#form {
+  display: flex;
+  flex-direction: column; /* Stacks inputs vertically */
+  width: 100%;
+  max-width: 500px; /* Maximum width for the form */
+  background-color: #fff; /* White background for the form */
+  border-radius: 8px; /* Rounded corners */
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Subtle shadow for depth */
+  padding: 20px; /* Adds padding inside the form */
+  margin-top: -10%;
+}
+
+/* Input field styling */
+#form input[type="email"] {
+  padding: 10px;
+  margin-bottom: 10px; /* Space between inputs */
+  border: 1px solid #ccc; /* Light border color */
+  border-radius: 4px; /* Rounded corners for the input */
+  font-size: 16px; /* Increases font size */
+  width: 100%; /* Full width */
+  box-sizing: border-box; /* Includes padding and border in width calculation */
+}
+#form input[type="number"]{
+  padding: 10px;
+  margin-bottom: 10px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  font-size: 16px;
+  width: 100%;
+  box-sizing: border-box;
+}
+
+/* Submit button styling */
+#form input[type="submit"] {
+  padding: 10px;
+  border: none;
+  border-radius: 4px;
+  background-color: #FFD700; 
+  color: #fff; 
+  font-size: 16px;
+  cursor: pointer; 
+  transition: background-color 0.3s ease; 
+}
+
+#form input[type="submit"]:hover {
+  background-color: #e5c100; 
 }
 
 /* media queries */

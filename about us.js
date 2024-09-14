@@ -1,4 +1,4 @@
-const display = document.getElementById("form");
+const display = document.getElementById("#form");
 
 display.addEventListener("submit", function (e) {
   e.preventDefault();
