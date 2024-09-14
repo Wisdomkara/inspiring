@@ -80,6 +80,8 @@ span:hover {
 .toggle_btn {
   display: none; /* Hide toggle button by default */
   cursor: pointer;
+  font-size: 1.8rem;
+  color: white;
 }
 
 .dropdown_menu {
@@ -105,11 +107,11 @@ span:hover {
 
 .dropdown_menu a {
   display: block;
-  padding: 10px;
+  padding: 10px 10px 20px 10px;
   text-decoration: none;
   color: black;
   list-style: none;
-  padding: 30px;
+  padding: 20px;
   
 }
 
@@ -117,6 +119,7 @@ span:hover {
   background-color: #1d3557; 
   color: white;
   transition: all 0.3s ease-in ;
+  border-radius: 0px 80px 0px 50px;
 }
 
 
