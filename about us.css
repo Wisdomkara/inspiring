@@ -3,7 +3,7 @@
   margin: 0px;
   padding: 0px;
 }
-body{
+body {
   background-color: white;
 }
 /* for nav bar */
@@ -23,20 +23,19 @@ span {
 }
 span:hover {
   color: rgb(0, 0, 0);
-  
 }
 .navlist {
   color: rgb(14, 13, 13);
-  font-family: "roboto",serif;
+  font-family: 'roboto', serif;
   text-transform: capitalize;
 }
 
 .list a {
   display: inline-block;
   color: rgb(255, 255, 255);
-  
+
   text-decoration: none;
- font-family: "Roboto", sans-serif;
+  font-family: 'Roboto', sans-serif;
   font-weight: 900;
   font-style: normal;
 }
@@ -49,15 +48,13 @@ a li {
 a li:hover {
   color: rgb(255, 136, 0);
   transition: all ease-in-out 0.4s;
-
 }
 .header {
-  
   display: flex;
   justify-content: space-between;
   position: relative;
   align-items: center;
-  background-color:#1D3557;
+  background-color: #1d3557;
   padding: 5px;
   box-shadow: 0px 0px rgb(255, 255, 255), 0px 0px 10px rgb(65, 65, 65);
   max-width: 600rem;
@@ -67,10 +64,9 @@ a li:hover {
   color: rgb(0, 0, 0);
   font-size: 1.5em;
 }
-.social a:hover{
+.social a:hover {
   color: white;
   transition: all 0.3s ease-in-out;
-
 }
 .toggle_btn {
   display: none;
@@ -102,19 +98,12 @@ a li:hover {
   color: black;
 }
 
-
-
-
-
-
-
-
 /* drop down styling */
 .toggle_btn {
   display: none;
   cursor: pointer;
 }
-.dropdown_menu a{
+.dropdown_menu a {
   text-decoration: none;
   color: black;
 }
@@ -139,6 +128,39 @@ a li:hover {
   height: 300px;
 }
 
+h1 {
+  font-family: 'roboto', sans-serif;
+  color: rgb(255, 255, 255);
+  background-color: #1d3557;
+  padding: 5px;
+  display: inline-block;
+  border-radius: 5px;
+  margin-top: 5px;
+}
+.name {
+  text-align: center;
+}
+
+.content {
+  display: grid;
+  grid-template-columns: 2fr 2fr;
+  gap: 20px;
+  align-items: start;
+  max-width: 100%;
+
+}
+h2 {
+  text-align: center;
+  padding: 1em;
+}
+h4 {
+  border-radius: 20px;
+  padding: 20px 5px 20px 20px;
+  border: rgb(19, 4, 114);
+  border-style: double;
+  box-shadow: 0px 10px 10px grey;
+  cursor: pointer;
+}
 
 /* media queries */
 
@@ -159,43 +181,31 @@ a li:hover {
   .list li {
     margin: 10px 0;
   }
-  .dropdown_menu a{
+  .dropdown_menu a {
     color: rgb(15, 14, 14);
     text-decoration: none;
   }
 }
-@media (max-width:417px) {
-    .container{
-        padding-top: 20px;
-        padding-bottom: 20px;
-        max-width: 15rem;
-        max-height: fit-content;
-        margin-top: 10rem;
-        
-        
-    }
-    .newquote{
-        padding: 5px;
-    }
-    .author{
-        padding: 5px;
-        font-size: 1.2em;
-        margin-top: 5px;
-    }
-    .heading{
-        font-size: 10px;
-    }
-
-
+@media (max-width: 417px) {
+  .container {
+    padding-top: 20px;
+    padding-bottom: 20px;
+    max-width: 15rem;
+    max-height: fit-content;
+    margin-top: 10rem;
+  }
+  .newquote {
+    padding: 5px;
+  }
+  .author {
+    padding: 5px;
+    font-size: 1.2em;
+    margin-top: 5px;
+  }
+  .heading {
+    font-size: 10px;
+  }
 }
-
-
-
-
-
-
-
-
 
 @keyframes slide {
   0% {
@@ -208,8 +218,6 @@ a li:hover {
     transform: translateY(-0px);
   }
 }
-
-
 
 @keyframes name {
   0% {
@@ -225,61 +233,3 @@ a li:hover {
     color: rgb(24, 167, 167);
   }
 }
-
-
-/* will code later */
-/* .content {
-  position: relative;
-  top: 50%;
-  left: 5%;
- 
-} */
-/* button text syling */
-/* form stlying */
-/* .newsletter form {
-  width: 380px;
-  max-width: 100%;
-  position: absolute;
-}
-
-.newsletter form input:first-child {
-  display: in-block;
-  width: 100%;
-  padding: 14px 13px 14px 15px;
-  border: 2px solid #4169e1;
-  border-radius: 30px;
-}
-.newsletter form input:last-child {
-  position: absolute;
-  display: inline-block;
-  outline: none;
-  border: none;
-  padding: 10px 30px;
-  border-radius: 30px;
-  background-color: #4169e1;
-  box-shadow: 10px 10px 5px #000, 10px 10px 15px #858585;
-  top: 2px;
-  right: 6px;
-}
-
-
-.imgg {
-  margin-left: 68%;
-  margin-top: 5%;
-  box-shadow: 0px 0px 10px rgb(33, 78, 226), 10px 10px 15px rgb(121, 121, 139);
-  animation-name: slide;
-  animation-duration: 5s;
-  -o-animation-iteration-count: infinite;
-  animation-iteration-count: infinite;
-  width: 20%;
-  height: 20%;
-  border-radius: 40px;
-}
-
-.imgg:hover {
-  background-color: rgb(239, 238, 238);
-} */
-
-
-
-
