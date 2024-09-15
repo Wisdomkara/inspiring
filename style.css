@@ -951,3 +951,16 @@ button:hover {
     border-top: 1px solid #ffffff;
     padding-top: 10px;
 }
+
+.footer-links li a {
+  text-decoration: none;
+  list-style: none;
+  color: white;
+  font-family: "roboto", sans-serif;
+  font-size: 1rem;
+ 
+}
+li{
+  text-decoration: none;
+  list-style: none;
+}
