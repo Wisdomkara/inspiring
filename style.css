@@ -466,7 +466,11 @@ section .intro h1 {
   .dropdown_menu a {
     color: rgb(15, 14, 14);
     text-decoration: none;
+    
   }
+  /* .dropdown_menu{
+    display: none;
+  } */
   body, html {
     margin: 0;
     padding: 0;
