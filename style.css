@@ -992,7 +992,7 @@ li{
 
 @media (max-width: 768px){
   .form-image-container{
-    margin-top: 35rem;
+    margin-top: 40rem;
     display: flex;
     flex-direction: column;
   }
