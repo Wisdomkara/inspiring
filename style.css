@@ -569,7 +569,7 @@ section .intro h1 {
 
 
 
-
+/* next section */
 /* for reach out container */
 .help-article {
     background-color: #ffffff;
@@ -731,12 +731,35 @@ button:hover {
 @media (max-width: 768px) {
     .help-form-container {
         flex-direction: column;
+      
+        
     }
 
     .form-column,
     .image-column {
         width: 100%;
         padding: 10px;
+    } 
+   
+}
+@media (max-width: 768px) {
+    .help-form-container {
+        flex-direction: column; /* Stack elements vertically */
+        margin-top: 30rem; /* Adjust top margin for smaller screens */
+        padding: 10px;
+    }
+
+    .form-column,
+    .image-column {
+        width: 100%; /* Ensure full width for form and image */
+        margin-bottom: 20px;
+    }
+
+    .image-column img {
+        max-height: 300px; /* Adjust the image height for smaller screens */
+        width: 100%;
+        border-radius: 10px;
+        object-fit: cover;
     }
 }
 /* Apply Google Font */
@@ -965,4 +988,12 @@ li{
   list-style: none;
   line-height: 2.0em;
   font-weight: 700;
+}
+
+@media (max-width: 768px){
+  .form-image-container{
+    margin-top: 30rem;
+    display: flex;
+    flex-direction: column;
+  }
 }
