@@ -29,6 +29,8 @@ body, html {
     transform: translate(-50%, -50%);
     object-fit: cover;
     opacity: 1.0; /* Adjust opacity to make text stand out */
+     overflow: hidden;
+    width: 100vw;
 }
 
 /* for nav bar */
