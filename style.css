@@ -963,4 +963,6 @@ button:hover {
 li{
   text-decoration: none;
   list-style: none;
+  line-height: 2.0em;
+  font-weight: 700;
 }
