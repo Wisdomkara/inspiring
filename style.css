@@ -15,6 +15,7 @@ body, html {
     position: relative;
     height: 100vh;
     overflow: hidden;
+    width: 100vw;
 }
 #heroVideo {
     position: absolute;
@@ -468,9 +469,7 @@ section .intro h1 {
     text-decoration: none;
     
   }
-  .hero{
-    overflow-x: hidden;
-  }
+  
   
   body, html {
     margin: 0;
