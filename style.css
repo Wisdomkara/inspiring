@@ -741,6 +741,9 @@ button:hover {
 }
 /* Apply Google Font */
 .support-container {
+  background-image: url('empathy.jpg') ;
+
+
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -811,13 +814,13 @@ button:hover {
 
 .support-content select:focus,
 .support-content textarea:focus {
-    border-color: #007bff;
+    border-color: rgb(255, 157, 0);
     outline: none;
 }
 
 .support-content button {
     padding: 12px;
-    background-color: #28a745;
+    background-color: #1D3557;
     color: white;
     border: none;
     border-radius: 5px;
@@ -831,7 +834,7 @@ button:hover {
 }
 
 .support-content button:hover {
-    background-color: #1c4790;
+    background-color:#1D3557;
 }
 
 .support-image {
@@ -844,6 +847,7 @@ button:hover {
     max-width: 100%;
     border-radius: 10px;
     object-fit: cover;
+    filter: drop-shadow(10px 10px 30px #1D3557);
 }
 
 @media (max-width: 768px) {
