@@ -4,6 +4,8 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Inspiring</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+    <!-- Add Google Fonts -->
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
     <link
@@ -256,7 +258,7 @@
                 <input type="text" id="alias-name" name="alias-name" placeholder="Enter an alias name" required>
 
                 <label for="help-description">How Can We Help?</label>
-                <textarea id="help-description" name="help-description" rows="5" placeholder="Describe the areas you need help with mentally and emotionally and  and a professional will reachoout to you soon" required></textarea>
+                <textarea id="help-description" name="help-description" rows="5" placeholder="Describe the areas you need help with mentally and emotionally and a professional will reachoout to you soon" required></textarea>
 
                 <label for="phone-number">Phone Number</label>
                 <input type="tel" id="phone-number" name="phone-number" placeholder="Enter your phone number" required>
@@ -274,6 +276,31 @@
     </div>
 </div>
 
+  <!-- for support -->
+  <div class="support-container">
+    <div class="support-content">
+        <h2><i class="fas fa-hands-helping"></i> Partner with Us to Make a Difference</h2>
+        <p><i class="fas fa-info-circle"></i> Your involvement is invaluable in helping us continue our mission. Whether through financial contributions or offering your time and expertise, together we can positively impact the lives of those in need. Join us in creating lasting change.</p>
+        <form action="#" method="POST">
+            <label for="support-type"><i class="fas fa-question-circle"></i> How Would You Like to Get Involved?</label>
+            <select id="support-type" name="support-type" required>
+                <option value="">Choose an option</option>
+                <option value="financial">Financial Support</option>
+                <option value="volunteering">Volunteer Your Time</option>
+                <option value="other">Other Ways to Help</option>
+            </select>
+
+            <label for="message"><i class="fas fa-comment-dots"></i> Message (Optional)</label>
+            <textarea id="message" name="message" rows="4" placeholder="Let us know how you'd like to get involved"></textarea>
+
+            <button type="submit"><i class="fas fa-paper-plane"></i> Submit</button>
+        </form>
+    </div>
+
+    <div class="support-image">
+        <img src="empathy.jpg" alt="Support Initiative Image">
+    </div>
+</div>
 
 
         <script src="app.js"></script>
