@@ -250,7 +250,7 @@ main {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  padding: 10px;
+  padding: 15em;
   color: white;
   font-size: 3rem;
   z-index: 100000000;
