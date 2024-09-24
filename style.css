@@ -483,6 +483,17 @@ section .intro h1 {
 }
 
 }
+
+/* for smaller i phone screen and andriod header dropdown button */
+
+@media (max-width: 600px){
+  .toggle_btn{
+    z-index: 9999999999999999;
+  }
+  
+}
+
+
 @media (max-width: 434px) {
   .container {
     padding-top: 15px;
