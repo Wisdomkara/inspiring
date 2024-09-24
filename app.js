@@ -1029,6 +1029,8 @@ quote: the only way to escape the corruptible effect of praise is to go on worki
     quote: "Knowledge is the beginning of happiness. - (Proverbs 3:13, ESV)",
   },
 ];
+const heroImage=document.querySelectorAll('.hero')
+
 
 const quote = document.querySelector(".quote");
 const author = document.querySelector(".author");
