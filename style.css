@@ -261,6 +261,10 @@ main {
   cursor: pointer;
   padding: 15rem;
 }
+.left,
+.right:hover{
+  color: #81b5ed;
+}
 
 /* Media queries to adjust layout for smaller screens */
 
