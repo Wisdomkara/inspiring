@@ -517,528 +517,527 @@ quote: the only way to escape the corruptible effect of praise is to go on worki
   },
   {
     id: 104,
-    author: "Ralph Waldo Emerson",
+    author: 'Ralph Waldo Emerson',
     quote:
-      "Do not go where the path may lead, go instead where there is no path and leave a trail. - (Proverbs 3:5-6, ESV)",
+      'Do not go where the path may lead, go instead where there is no path and leave a trail. - (Proverbs 3:5-6, ESV)',
   },
   {
     id: 105,
-    author: "Marie Curie",
+    author: 'Marie Curie',
     quote:
-      "One never notices what has been done; one can only see what remains to be done. - (Philippians 3:14, ESV)",
+      'One never notices what has been done; one can only see what remains to be done. - (Philippians 3:14, ESV)',
   },
   {
     id: 106,
-    author: "Nelson Mandela",
+    author: 'Nelson Mandela',
     quote:
-      "Education is the most powerful weapon which you can use to change the world. - (Proverbs 22:6, ESV)",
+      'Education is the most powerful weapon which you can use to change the world. - (Proverbs 22:6, ESV)',
   },
   {
     id: 107,
-    author: "Albert Einstein",
+    author: 'Albert Einstein',
     quote:
-      "Strive not to be a success, but rather to be of value. - (Matthew 6:33, ESV)",
+      'Strive not to be a success, but rather to be of value. - (Matthew 6:33, ESV)',
   },
   {
     id: 108,
-    author: "Leonardo da Vinci",
+    author: 'Leonardo da Vinci',
     quote:
-      "Study the science of art. Study the art of science. Learn how to see. Realize that everything connects to everything else. - (Romans 11:33, ESV)",
+      'Study the science of art. Study the art of science. Learn how to see. Realize that everything connects to everything else. - (Romans 11:33, ESV)',
   },
   {
     id: 109,
-    author: "C.S. Lewis",
+    author: 'C.S. Lewis',
     quote:
       "Friendship is born at that moment when one person says to another, 'What! You too? I thought I was the only one. - (Proverbs 18:24, ESV)",
   },
   {
     id: 110,
-    author: "Maya Angelou",
+    author: 'Maya Angelou',
     quote:
-      "Success is liking yourself, liking what you do, and liking how you do it. - (Galatians 5:22-23, ESV)",
+      'Success is liking yourself, liking what you do, and liking how you do it. - (Galatians 5:22-23, ESV)',
   },
   {
     id: 111,
-    author: "Helen Keller",
+    author: 'Helen Keller',
     quote:
-      "What I once was is what I am no more. What I shall become is what I am now creating. - (2 Corinthians 5:17, ESV)",
+      'What I once was is what I am no more. What I shall become is what I am now creating. - (2 Corinthians 5:17, ESV)',
   },
   {
     id: 112,
-    author: "Desmond Tutu",
+    author: 'Desmond Tutu',
     quote:
-      "If you are neutral in situations of injustice, you have chosen the side of the oppressor. - (Proverbs 31:8-9, ESV)",
+      'If you are neutral in situations of injustice, you have chosen the side of the oppressor. - (Proverbs 31:8-9, ESV)',
   },
   {
     id: 113,
-    author: "Mother Teresa",
+    author: 'Mother Teresa',
     quote:
-      "I am not called to succeed, I am called to be faithful. - (1 Corinthians 4:2, ESV)",
+      'I am not called to succeed, I am called to be faithful. - (1 Corinthians 4:2, ESV)',
   },
   {
     id: 114,
-    author: "Viktor Frankl",
+    author: 'Viktor Frankl',
     quote:
       "Everything can be taken from a man but one thing: the last of the human freedoms - to choose one's attitude in any given set of circumstances. - (James 1:2-4, ESV)",
   },
   {
     id: 115,
-    author: "Martin Luther King Jr.",
+    author: 'Martin Luther King Jr.',
     quote:
-      "Darkness cannot drive out darkness; only light can do that. Hate cannot drive out hate; only love can do that. - (Romans 12:21, ESV)",
+      'Darkness cannot drive out darkness; only light can do that. Hate cannot drive out hate; only love can do that. - (Romans 12:21, ESV)',
   },
   {
     id: 116,
-    author: "John Wesley",
+    author: 'John Wesley',
     quote:
-      "Do all the good you can, By all the means you can, In all the places you can, At all the times you can, To all the people you can, As long as ever you can. - (Galatians 6:10, ESV)",
+      'Do all the good you can, By all the means you can, In all the places you can, At all the times you can, To all the people you can, As long as ever you can. - (Galatians 6:10, ESV)',
   },
   {
     id: 117,
-    author: "Charles Dickens",
+    author: 'Charles Dickens',
     quote: `"It was the best of times, it was the worst of times, it was the age of wisdom, it was the age of foolishness, it was the epoch of belief, it was the epoch of incredulity, it was the season of Light, it was the season of Darkness, it was the spring of hope, it was the winter of despair, we had everything before us, we had nothing before us, we were all going direct to Heaven, we`,
   },
   {
     id: 118,
-    author: "William Shakespeare",
-    quote: "Love all, trust a few, do wrong to none. - (Romans 12:9, ESV)",
+    author: 'William Shakespeare',
+    quote: 'Love all, trust a few, do wrong to none. - (Romans 12:9, ESV)',
   },
   {
     id: 119,
-    author: "Emily Dickinson",
-    quote: "Forever is composed of nows. - (2 Corinthians 6:2, ESV)",
+    author: 'Emily Dickinson',
+    quote: 'Forever is composed of nows. - (2 Corinthians 6:2, ESV)',
   },
   {
     id: 120,
-    author: "Mark Twain",
+    author: 'Mark Twain',
     quote:
-      "The secret of getting ahead is getting started. - (Philippians 4:13, ESV)",
+      'The secret of getting ahead is getting started. - (Philippians 4:13, ESV)',
   },
   {
     id: 121,
-    author: "Oscar Wilde",
+    author: 'Oscar Wilde',
     quote:
-      "Be yourself; everyone else is already taken. - (Galatians 6:4, ESV)",
+      'Be yourself; everyone else is already taken. - (Galatians 6:4, ESV)',
   },
   {
     id: 122,
-    author: "Friedrich Nietzsche",
+    author: 'Friedrich Nietzsche',
     quote:
-      "That which does not kill us makes us stronger. - (1 Peter 5:10, ESV)",
+      'That which does not kill us makes us stronger. - (1 Peter 5:10, ESV)',
   },
   {
     id: 123,
-    author: "William Blake",
+    author: 'William Blake',
     quote:
-      "To see a World in a Grain of Sand, And a Heaven in a Wild Flower, Hold Infinity in the palm of your hand, And Eternity in an hour. - (Matthew 6:26, ESV)",
+      'To see a World in a Grain of Sand, And a Heaven in a Wild Flower, Hold Infinity in the palm of your hand, And Eternity in an hour. - (Matthew 6:26, ESV)',
   },
   {
     id: 124,
-    author: "Søren Kierkegaard",
-    quote: "Anxiety is the dizziness of freedom. - (2 Corinthians 3:17, ESV)",
+    author: 'Søren Kierkegaard',
+    quote: 'Anxiety is the dizziness of freedom. - (2 Corinthians 3:17, ESV)',
   },
   {
     id: 125,
-    author: "Augustine of Hippo",
+    author: 'Augustine of Hippo',
     quote:
-      "Our hearts are restless until they rest in you. - (Psalm 42:1, ESV)",
+      'Our hearts are restless until they rest in you. - (Psalm 42:1, ESV)',
   },
   {
     id: 126,
-    author: "Francis of Assisi",
+    author: 'Francis of Assisi',
     quote:
       "Start by doing what's necessary; then do what's possible; and suddenly you are doing the impossible. - (Luke 18:27, ESV)",
   },
   {
     id: 127,
-    author: "Johann Wolfgang von Goethe",
+    author: 'Johann Wolfgang von Goethe',
     quote:
-      "Whatever you can do or dream you can, begin it. Boldness has genius, power, and magic in it. - (Psalm 37:23, ESV)",
+      'Whatever you can do or dream you can, begin it. Boldness has genius, power, and magic in it. - (Psalm 37:23, ESV)',
   },
   {
     id: 128,
-    author: "Frederick Douglass",
+    author: 'Frederick Douglass',
     quote:
-      "Without struggles, there would be no progress. - (James 1:2-4, ESV)",
+      'Without struggles, there would be no progress. - (James 1:2-4, ESV)',
   },
   {
     id: 129,
-    author: "Helen Keller",
+    author: 'Helen Keller',
     quote:
-      "Life is either a daring adventure or nothing at all. - (Proverbs 4:13, ESV)",
+      'Life is either a daring adventure or nothing at all. - (Proverbs 4:13, ESV)',
   },
   {
     id: 130,
-    author: "G.K. Chesterton",
+    author: 'G.K. Chesterton',
     quote:
-      "The Bible calls it faith; the world calls it optimism. - (Hebrews 11:1, ESV)",
+      'The Bible calls it faith; the world calls it optimism. - (Hebrews 11:1, ESV)',
   },
   {
     id: 131,
-    author: "Dorothy Day",
+    author: 'Dorothy Day',
     quote:
       "Don't call for a man to carry you, carry yourself. - (Galatians 6:5, ESV)",
   },
   {
     id: 132,
-    author: "C.S. Lewis",
+    author: 'C.S. Lewis',
     quote:
-      "Courage is not simply the absence of fear; it is the triumph over it. The brave man is not he who does not feel afraid, but he who conquers that fear. - (Proverbs 28:1, ESV)",
+      'Courage is not simply the absence of fear; it is the triumph over it. The brave man is not he who does not feel afraid, but he who conquers that fear. - (Proverbs 28:1, ESV)',
   },
   {
     id: 133,
-    author: "Billy Graham",
+    author: 'Billy Graham',
     quote:
-      "The greatest thing in the world is not so much where we are, but in what direction we are moving. - (Proverbs 4:18, ESV)",
+      'The greatest thing in the world is not so much where we are, but in what direction we are moving. - (Proverbs 4:18, ESV)',
   },
   {
     id: 134,
-    author: "John Calvin",
+    author: 'John Calvin',
     quote:
-      "Where the word of a king is, there is power. - (Proverbs 16:10, ESV)",
+      'Where the word of a king is, there is power. - (Proverbs 16:10, ESV)',
   },
   {
     id: 135,
-    author: "Charles Spurgeon",
+    author: 'Charles Spurgeon',
     quote:
-      "I would rather trust the Bible than the best philosopher. - (Proverbs 3:5-6, ESV)",
+      'I would rather trust the Bible than the best philosopher. - (Proverbs 3:5-6, ESV)',
   },
   {
     id: 136,
-    author: "C.S. Lewis",
+    author: 'C.S. Lewis',
     quote:
-      "God allows us to experience the lowest depths of disappointment so that we may rise up with the greatest strength of faith. - (Romans 8:28, ESV)",
+      'God allows us to experience the lowest depths of disappointment so that we may rise up with the greatest strength of faith. - (Romans 8:28, ESV)',
   },
   {
     id: 137,
-    author: "Dietrich Bonhoeffer",
+    author: 'Dietrich Bonhoeffer',
     quote:
-      "Silence in the face of evil is itself evil: God will not hold us guiltless. - (Proverbs 31:8-9, ESV)",
+      'Silence in the face of evil is itself evil: God will not hold us guiltless. - (Proverbs 31:8-9, ESV)',
   },
   {
     id: 138,
-    author: "Fyodor Dostoevsky",
+    author: 'Fyodor Dostoevsky',
     quote:
-      "The man who has never looked into the abyss cannot write a novel. - (Psalm 86:13, ESV)",
+      'The man who has never looked into the abyss cannot write a novel. - (Psalm 86:13, ESV)',
   },
 
   {
     id: 123,
-    author: "William Blake",
+    author: 'William Blake',
     quote:
-      "To see a World in a Grain of Sand, And a Heaven in a Wild Flower, Hold Infinity in the palm of your hand, And Eternity in an hour. - (Matthew 6:26, ESV)",
+      'To see a World in a Grain of Sand, And a Heaven in a Wild Flower, Hold Infinity in the palm of your hand, And Eternity in an hour. - (Matthew 6:26, ESV)',
   },
   {
     id: 124,
-    author: "Søren Kierkegaard",
-    quote: "Anxiety is the dizziness of freedom. - (2 Corinthians 3:17, ESV)",
+    author: 'Søren Kierkegaard',
+    quote: 'Anxiety is the dizziness of freedom. - (2 Corinthians 3:17, ESV)',
   },
   {
     id: 125,
-    author: "Augustine of Hippo",
+    author: 'Augustine of Hippo',
     quote:
-      "Our hearts are restless until they rest in you. - (Psalm 42:1, ESV)",
+      'Our hearts are restless until they rest in you. - (Psalm 42:1, ESV)',
   },
   {
     id: 126,
-    author: "Francis of Assisi",
+    author: 'Francis of Assisi',
     quote:
       "Start by doing what's necessary; then do what's possible; and suddenly you are doing the impossible. - (Luke 18:27, ESV)",
   },
   {
     id: 127,
-    author: "Johann Wolfgang von Goethe",
+    author: 'Johann Wolfgang von Goethe',
     quote:
-      "Whatever you can do or dream you can, begin it. Boldness has genius, power, and magic in it. - (Psalm 37:23, ESV)",
+      'Whatever you can do or dream you can, begin it. Boldness has genius, power, and magic in it. - (Psalm 37:23, ESV)',
   },
   {
     id: 128,
-    author: "Frederick Douglass",
+    author: 'Frederick Douglass',
     quote:
-      "Without struggles, there would be no progress. - (James 1:2-4, ESV)",
+      'Without struggles, there would be no progress. - (James 1:2-4, ESV)',
   },
   {
     id: 129,
-    author: "Helen Keller",
+    author: 'Helen Keller',
     quote:
-      "Life is either a daring adventure or nothing at all. - (Proverbs 4:13, ESV)",
+      'Life is either a daring adventure or nothing at all. - (Proverbs 4:13, ESV)',
   },
   {
     id: 130,
-    author: "G.K. Chesterton",
+    author: 'G.K. Chesterton',
     quote:
-      "The Bible calls it faith; the world calls it optimism. - (Hebrews 11:1, ESV)",
+      'The Bible calls it faith; the world calls it optimism. - (Hebrews 11:1, ESV)',
   },
   {
     id: 131,
-    author: "Dorothy Day",
+    author: 'Dorothy Day',
     quote:
       "Don't call for a man to carry you, carry yourself. - (Galatians 6:5, ESV)",
   },
   {
     id: 132,
-    author: "C.S. Lewis",
+    author: 'C.S. Lewis',
     quote:
-      "Courage is not simply the absence of fear; it is the triumph over it. The brave man is not he who does not feel afraid, but he who conquers that fear. - (Proverbs 28:1, ESV)",
+      'Courage is not simply the absence of fear; it is the triumph over it. The brave man is not he who does not feel afraid, but he who conquers that fear. - (Proverbs 28:1, ESV)',
   },
   {
     id: 133,
-    author: "Billy Graham",
+    author: 'Billy Graham',
     quote:
-      "The greatest thing in the world is not so much where we are, but in what direction we are moving. - (Proverbs 4:18, ESV)",
+      'The greatest thing in the world is not so much where we are, but in what direction we are moving. - (Proverbs 4:18, ESV)',
   },
   {
     id: 134,
-    author: "John Calvin",
+    author: 'John Calvin',
     quote:
-      "Where the word of a king is, there is power. - (Proverbs 16:10, ESV)",
+      'Where the word of a king is, there is power. - (Proverbs 16:10, ESV)',
   },
   {
     id: 135,
-    author: "Charles Spurgeon",
+    author: 'Charles Spurgeon',
     quote:
-      "I would rather trust the Bible than the best philosopher. - (Proverbs 3:5-6, ESV)",
+      'I would rather trust the Bible than the best philosopher. - (Proverbs 3:5-6, ESV)',
   },
   {
     id: 136,
-    author: "C.S. Lewis",
+    author: 'C.S. Lewis',
     quote:
-      "God allows us to experience the lowest depths of disappointment so that we may rise up with the greatest strength of faith. - (Romans 8:28, ESV)",
+      'God allows us to experience the lowest depths of disappointment so that we may rise up with the greatest strength of faith. - (Romans 8:28, ESV)',
   },
   {
     id: 137,
-    author: "Dietrich Bonhoeffer",
+    author: 'Dietrich Bonhoeffer',
     quote:
-      "Silence in the face of evil is itself evil: God will not hold us guiltless. - (Proverbs 31:8-9, ESV)",
+      'Silence in the face of evil is itself evil: God will not hold us guiltless. - (Proverbs 31:8-9, ESV)',
   },
   {
     id: 138,
-    author: "Fyodor Dostoevsky",
+    author: 'Fyodor Dostoevsky',
     quote:
-      "The man who has never looked into the abyss cannot write a novel. - (Psalm 86:13, ESV)",
+      'The man who has never looked into the abyss cannot write a novel. - (Psalm 86:13, ESV)',
   },
   {
     id: 139,
-    author: "William Blake",
+    author: 'William Blake',
     quote:
-      "To see a World in a Grain of Sand, And a Heaven in a Wild Flower, Hold Infinity in the palm of your hand, And Eternity in an hour. - (Matthew 6:26, ESV)",
+      'To see a World in a Grain of Sand, And a Heaven in a Wild Flower, Hold Infinity in the palm of your hand, And Eternity in an hour. - (Matthew 6:26, ESV)',
   },
   {
     id: 140,
-    author: "Søren Kierkegaard",
-    quote: "Anxiety is the dizziness of freedom. - (2 Corinthians 3:17, ESV)",
+    author: 'Søren Kierkegaard',
+    quote: 'Anxiety is the dizziness of freedom. - (2 Corinthians 3:17, ESV)',
   },
   {
     id: 141,
-    author: "Augustine of Hippo",
+    author: 'Augustine of Hippo',
     quote:
-      "Our hearts are restless until they rest in you. - (Psalm 42:1, ESV)",
+      'Our hearts are restless until they rest in you. - (Psalm 42:1, ESV)',
   },
   {
     id: 142,
-    author: "Francis of Assisi",
+    author: 'Francis of Assisi',
     quote:
       "Start by doing what's necessary; then do what's possible; and suddenly you are doing the impossible. - (Luke 18:27, ESV)",
   },
   {
     id: 143,
-    author: "Johann Wolfgang von Goethe",
+    author: 'Johann Wolfgang von Goethe',
     quote:
-      "Whatever you can do or dream you can, begin it. Boldness has genius, power, and magic in it. - (Psalm 37:23, ESV)",
+      'Whatever you can do or dream you can, begin it. Boldness has genius, power, and magic in it. - (Psalm 37:23, ESV)',
   },
   {
     id: 144,
-    author: "Frederick Douglass",
+    author: 'Frederick Douglass',
     quote:
-      "Without struggles, there would be no progress. - (James 1:2-4, ESV)",
+      'Without struggles, there would be no progress. - (James 1:2-4, ESV)',
   },
   {
     id: 145,
-    author: "Helen Keller",
+    author: 'Helen Keller',
     quote:
-      "Life is either a daring adventure or nothing at all. - (Proverbs 4:13, ESV)",
+      'Life is either a daring adventure or nothing at all. - (Proverbs 4:13, ESV)',
   },
   {
     id: 146,
-    author: "G.K. Chesterton",
+    author: 'G.K. Chesterton',
     quote:
-      "The Bible calls it faith; the world calls it optimism. - (Hebrews 11:1, ESV)",
+      'The Bible calls it faith; the world calls it optimism. - (Hebrews 11:1, ESV)',
   },
   {
     id: 147,
-    author: "Dorothy Day",
+    author: 'Dorothy Day',
     quote:
       "Don't call for a man to carry you, carry yourself. - (Galatians 6:5, ESV)",
   },
   {
     id: 148,
-    author: "C.S. Lewis",
+    author: 'C.S. Lewis',
     quote:
-      "Courage is not simply the absence of fear; it is the triumph over it. The brave man is not he who does not feel afraid, but he who conquers that fear. - (Proverbs 28:1, ESV)",
+      'Courage is not simply the absence of fear; it is the triumph over it. The brave man is not he who does not feel afraid, but he who conquers that fear. - (Proverbs 28:1, ESV)',
   },
   {
     id: 149,
-    author: "Billy Graham",
+    author: 'Billy Graham',
     quote:
-      "The greatest thing in the world is not so much where we are, but in what direction we are moving. - (Proverbs 4:18, ESV)",
+      'The greatest thing in the world is not so much where we are, but in what direction we are moving. - (Proverbs 4:18, ESV)',
   },
   {
     id: 150,
-    author: "John Calvin",
+    author: 'John Calvin',
     quote:
-      "Where the word of a king is, there is power. - (Proverbs 16:10, ESV)",
+      'Where the word of a king is, there is power. - (Proverbs 16:10, ESV)',
   },
   {
     id: 151,
-    author: "Charles Spurgeon",
+    author: 'Charles Spurgeon',
     quote:
-      "I would rather trust the Bible than the best philosopher. - (Proverbs 3:5-6, ESV)",
+      'I would rather trust the Bible than the best philosopher. - (Proverbs 3:5-6, ESV)',
   },
   {
     id: 152,
-    author: "C.S. Lewis",
+    author: 'C.S. Lewis',
     quote:
-      "God allows us to experience the lowest depths of disappointment so that we may rise up with the greatest strength of faith. - (Romans 8:28, ESV)",
+      'God allows us to experience the lowest depths of disappointment so that we may rise up with the greatest strength of faith. - (Romans 8:28, ESV)',
   },
   {
     id: 153,
-    author: "Dietrich Bonhoeffer",
+    author: 'Dietrich Bonhoeffer',
     quote:
-      "Silence in the face of evil is itself evil: God will not hold us guiltless. - (Proverbs 31:8-9, ESV)",
+      'Silence in the face of evil is itself evil: God will not hold us guiltless. - (Proverbs 31:8-9, ESV)',
   },
   {
     id: 154,
-    author: "Fyodor Dostoevsky",
+    author: 'Fyodor Dostoevsky',
     quote:
-      "The man who has never looked into the abyss cannot write a novel. - (Psalm 86:13, ESV)",
+      'The man who has never looked into the abyss cannot write a novel. - (Psalm 86:13, ESV)',
   },
   {
     id: 155,
-    author: "J.R.R. Tolkien",
+    author: 'J.R.R. Tolkien',
     quote:
-      "Even the smallest person can change the course of the future. - (Proverbs 3:5-6, ESV)",
+      'Even the smallest person can change the course of the future. - (Proverbs 3:5-6, ESV)',
   },
   {
     id: 156,
-    author: "C.S. Lewis",
-    quote: "We read to know we are not alone. - (Ecclesiastes 4:9-10, ESV)",
+    author: 'C.S. Lewis',
+    quote: 'We read to know we are not alone. - (Ecclesiastes 4:9-10, ESV)',
   },
   {
     id: 157,
-    author: "Jane Austen",
+    author: 'Jane Austen',
     quote:
-      "It is a truth universally acknowledged, that a single man in possession of a good fortune, must be in want of a wife. - (Genesis 2:18, ESV)",
+      'It is a truth universally acknowledged, that a single man in possession of a good fortune, must be in want of a wife. - (Genesis 2:18, ESV)',
   },
   {
     id: 158,
-    author: "Harper Lee",
+    author: 'Harper Lee',
     quote:
-      "You never really understand a person until you consider things from his point of view... Until you climb into his skin and walk around in it. - (Proverbs 18:15, ESV)",
+      'You never really understand a person until you consider things from his point of view... Until you climb into his skin and walk around in it. - (Proverbs 18:15, ESV)',
   },
   {
     id: 159,
-    author: "George Orwell",
+    author: 'George Orwell',
     quote:
-      "In a time of deceit telling the truth is a revolutionary act. - (Proverbs 12:22, ESV)",
+      'In a time of deceit telling the truth is a revolutionary act. - (Proverbs 12:22, ESV)',
   },
   {
     id: 160,
-    author: "Margaret Atwood",
+    author: 'Margaret Atwood',
     quote:
       "I'm afraid of men. I'm afraid of women. I'm afraid of children. I'm afraid of everyone. - (Psalm 23:4, ESV)",
   },
   {
     id: 161,
-    author: "F. Scott Fitzgerald",
+    author: 'F. Scott Fitzgerald',
     quote:
-      "So we beat on, boats against the current, borne back ceaselessly into the past. - (Ecclesiastes 1:4, ESV)",
+      'So we beat on, boats against the current, borne back ceaselessly into the past. - (Ecclesiastes 1:4, ESV)',
   },
   {
     id: 162,
-    author: "Ernest Hemingway",
+    author: 'Ernest Hemingway',
     quote:
-      "The world breaks everyone, and afterward, some are strong at the broken places. - (Romans 5:3-4, ESV)",
+      'The world breaks everyone, and afterward, some are strong at the broken places. - (Romans 5:3-4, ESV)',
   },
   {
     id: 163,
-    author: "J.K. Rowling",
+    author: 'J.K. Rowling',
     quote:
-      "It is our choices, Harry, that show what we truly are, far more than our abilities. - (Romans 2:13, ESV)",
+      'It is our choices, Harry, that show what we truly are, far more than our abilities. - (Romans 2:13, ESV)',
   },
   {
     id: 164,
-    author: "Dr. Seuss",
+    author: 'Dr. Seuss',
     quote:
       "Be who you are and say what you feel, because those who mind don't matter, and those who matter don't mind. - (Galatians 5:1, ESV)",
   },
   {
     id: 165,
-    author: "Maya Angelou",
+    author: 'Maya Angelou',
     quote:
-      "Success is liking yourself, liking what you do, and liking how you do it. - (Galatians 5:22-23, ESV)",
+      'Success is liking yourself, liking what you do, and liking how you do it. - (Galatians 5:22-23, ESV)',
   },
   {
     id: 166,
-    author: "Steve Jobs",
-    quote: "Stay hungry, stay foolish. - (Proverbs 3:5-6, ESV)",
+    author: 'Steve Jobs',
+    quote: 'Stay hungry, stay foolish. - (Proverbs 3:5-6, ESV)',
   },
   {
     id: 167,
-    author: "Oprah Winfrey",
+    author: 'Oprah Winfrey',
     quote:
-      "You get in life what you have the courage to ask for. - (Matthew 7:7, ESV)",
+      'You get in life what you have the courage to ask for. - (Matthew 7:7, ESV)',
   },
   {
     id: 168,
-    author: "Nelson Mandela",
-    quote: "A winner is a dreamer who never gives up. - (Proverbs 24:16, ESV)",
+    author: 'Nelson Mandela',
+    quote: 'A winner is a dreamer who never gives up. - (Proverbs 24:16, ESV)',
   },
   {
     id: 169,
-    author: "Albert Einstein",
+    author: 'Albert Einstein',
     quote:
-      "The important thing is not to stop questioning. Curiosity has its own reason for existing. - (Proverbs 18:15, ESV)",
+      'The important thing is not to stop questioning. Curiosity has its own reason for existing. - (Proverbs 18:15, ESV)',
   },
   {
     id: 170,
-    author: "Stephen Hawking",
+    author: 'Stephen Hawking',
     quote:
-      "Intelligence is the ability to adapt to change. - (Romans 12:2, ESV)",
+      'Intelligence is the ability to adapt to change. - (Romans 12:2, ESV)',
   },
   {
     id: 171,
-    author: "Marie Curie",
+    author: 'Marie Curie',
     quote:
-      "One never notices what has been done; one can only see what remains to be done. - (Philippians 3:14, ESV)",
+      'One never notices what has been done; one can only see what remains to be done. - (Philippians 3:14, ESV)',
   },
   {
     id: 172,
-    author: "Leonardo da Vinci",
+    author: 'Leonardo da Vinci',
     quote:
-      "Study the science of art. Study the art of science. Learn how to see. Realize that everything connects to everything else. - (Romans 11:33, ESV)",
+      'Study the science of art. Study the art of science. Learn how to see. Realize that everything connects to everything else. - (Romans 11:33, ESV)',
   },
   {
     id: 173,
-    author: "Aristotle",
+    author: 'Aristotle',
     quote:
-      "There is no wealth like knowledge, and no poverty like ignorance. - (Proverbs 8:11, ESV)",
+      'There is no wealth like knowledge, and no poverty like ignorance. - (Proverbs 8:11, ESV)',
   },
   {
     id: 174,
-    author: "Plato",
-    quote: "Knowledge is the beginning of happiness. - (Proverbs 3:13, ESV)",
+    author: 'Plato',
+    quote: 'Knowledge is the beginning of happiness. - (Proverbs 3:13, ESV)',
   },
 ];
-const heroImage=document.querySelectorAll('.hero')
+const heroImage = document.querySelectorAll('.hero');
 
+const quote = document.querySelector('.quote');
+const author = document.querySelector('.author');
+const newquote = document.querySelector('.newquote');
+const left = document.querySelector('.left');
+const right = document.querySelector('.right');
 
-const quote = document.querySelector(".quote");
-const author = document.querySelector(".author");
-const newquote = document.querySelector(".newquote");
-const left = document.querySelector(".left");
-const right = document.querySelector(".right");
-
-right.addEventListener("click", moveRight);
+right.addEventListener('click', moveRight);
 function moveRight() {
   currentItem = (currentItem + 1) % allQuotes.length; // Wrap around to the beginning
   const item = allQuotes[currentItem];
@@ -1053,7 +1052,7 @@ function moveLeft() {
   quote.textContent = item.quote;
 }
 
-left.addEventListener("click", moveLeft);
+left.addEventListener('click', moveLeft);
 
 let currentItem = 0;
 function randomquote() {
@@ -1061,40 +1060,38 @@ function randomquote() {
   author.textContent = item.author;
   quote.textContent = item.quote;
   currentItem = Math.floor(Math.random() * allQuotes.length);
-  quote.classList.remove("quoteAnimation"); // Remove old animation
+  quote.classList.remove('quoteAnimation'); // Remove old animation
   void quote.offsetWidth; // Force reflow (optional, for some browsers)
-  quote.classList.add("quoteAnimation"); // Readd animation class
+  quote.classList.add('quoteAnimation'); // Readd animation class
 }
 
 // toggle
 
-newquote.addEventListener("click", randomquote);
+newquote.addEventListener('click', randomquote);
 
 // toggle functionality
 
-toggleBtn = document.querySelector(".toggle_btn");
-dropdown = document.querySelector(".dropdown_menu ");
+toggleBtn = document.querySelector('.toggle_btn');
+dropdown = document.querySelector('.dropdown_menu ');
 const breakpoint = 768;
 
-toggleBtn.addEventListener("click", function () {
-  dropdown.classList.toggle("active");
+toggleBtn.addEventListener('click', function () {
+  dropdown.classList.toggle('active');
 });
 
 function handleResize() {
   if (window.innerWidth >= breakpoint) {
-    dropdown.classList.remove("active");
+    dropdown.classList.remove('active');
   }
-  
 }
-window.addEventListener("resize", handleResize);
-window.addEventListener("DOMContentLoaded", handleResize);
-
+window.addEventListener('resize', handleResize);
+window.addEventListener('DOMContentLoaded', handleResize);
 
 // for relationship container
 
-const quote2 = document.querySelector(".quote2");
-const author2 = document.querySelector(".author2");
-const newquote2 = document.querySelector(".newquote2");
+const quote2 = document.querySelector('.quote2');
+const author2 = document.querySelector('.author2');
+const newquote2 = document.querySelector('.newquote2');
 
 const relationshipQuotes = [
   {
@@ -1254,106 +1251,106 @@ const relationshipQuotes = [
   },
   {
     id: 32,
-    author2: "Maya Angelou",
+    author2: 'Maya Angelou',
     quote2:
       "I've learned that people will forget what you said, people will forget what you did, but people will never forget how you made them feel.",
   },
   {
     id: 33,
-    author2: "Leo Tolstoy",
+    author2: 'Leo Tolstoy',
     quote2:
-      "All, everything that I understand, I only understand because I love.",
+      'All, everything that I understand, I only understand because I love.',
   },
   {
     id: 34,
-    author2: "Aristotle",
-    quote2: "Love is composed of a single soul inhabiting two bodies.",
+    author2: 'Aristotle',
+    quote2: 'Love is composed of a single soul inhabiting two bodies.',
   },
   {
     id: 35,
-    author2: "Friedrich Nietzsche",
+    author2: 'Friedrich Nietzsche',
     quote2:
-      "It is not a lack of love, but a lack of friendship that makes unhappy marriages.",
+      'It is not a lack of love, but a lack of friendship that makes unhappy marriages.',
   },
   {
     id: 36,
-    author2: "Rumi",
+    author2: 'Rumi',
     quote2:
-      "Your task is not to seek for love, but merely to seek and find all the barriers within yourself that you have built against it.",
+      'Your task is not to seek for love, but merely to seek and find all the barriers within yourself that you have built against it.',
   },
   {
     id: 37,
-    author2: "Antoine de Saint-Exupéry",
+    author2: 'Antoine de Saint-Exupéry',
     quote2:
-      "Love does not consist in gazing at each other, but in looking outward together in the same direction.",
+      'Love does not consist in gazing at each other, but in looking outward together in the same direction.',
   },
   {
     id: 38,
-    author2: "Paulo Coelho",
+    author2: 'Paulo Coelho',
     quote2:
-      "When we love, we always strive to become better than we are. When we strive to become better than we are, everything around us becomes better too.",
+      'When we love, we always strive to become better than we are. When we strive to become better than we are, everything around us becomes better too.',
   },
   {
     id: 39,
-    author2: "Audrey Hepburn",
-    quote2: "The best thing to hold onto in life is each other.",
+    author2: 'Audrey Hepburn',
+    quote2: 'The best thing to hold onto in life is each other.',
   },
   {
     id: 40,
-    author2: "Victor Hugo",
+    author2: 'Victor Hugo',
     quote2:
-      "The greatest happiness of life is the conviction that we are loved; loved for ourselves, or rather, loved in spite of ourselves.",
+      'The greatest happiness of life is the conviction that we are loved; loved for ourselves, or rather, loved in spite of ourselves.',
   },
   {
     id: 41,
-    author2: "Lao Tzu",
+    author2: 'Lao Tzu',
     quote2:
-      "Being deeply loved by someone gives you strength, while loving someone deeply gives you courage.",
+      'Being deeply loved by someone gives you strength, while loving someone deeply gives you courage.',
   },
   {
     id: 42,
-    author2: "Helen Keller",
+    author2: 'Helen Keller',
     quote2:
-      "The best and most beautiful things in this world cannot be seen or even heard, but must be felt with the heart.",
+      'The best and most beautiful things in this world cannot be seen or even heard, but must be felt with the heart.',
   },
   {
     id: 43,
-    author2: "Mother Teresa",
+    author2: 'Mother Teresa',
     quote2:
-      "I have found the paradox, that if you love until it hurts, there can be no more hurt, only more love.",
+      'I have found the paradox, that if you love until it hurts, there can be no more hurt, only more love.',
   },
   {
     id: 44,
-    author2: "Martin Luther King Jr.",
+    author2: 'Martin Luther King Jr.',
     quote2:
-      "I have decided to stick with love. Hate is too great a burden to bear.",
+      'I have decided to stick with love. Hate is too great a burden to bear.',
   },
   {
     id: 45,
-    author2: "Bob Marley",
+    author2: 'Bob Marley',
     quote2:
-      "The truth is, everyone is going to hurt you. You just got to find the ones worth suffering for.",
+      'The truth is, everyone is going to hurt you. You just got to find the ones worth suffering for.',
   },
   {
     id: 46,
-    author2: "Albert Einstein",
-    quote2: "Gravitation is not responsible for people falling in love.",
+    author2: 'Albert Einstein',
+    quote2: 'Gravitation is not responsible for people falling in love.',
   },
   {
     id: 47,
-    author2: "William Shakespeare",
-    quote2: "The course of true love never did run smooth.",
+    author2: 'William Shakespeare',
+    quote2: 'The course of true love never did run smooth.',
   },
   {
     id: 48,
-    author2: "Jane Austen",
-    quote2: "There is no charm equal to tenderness of heart.",
+    author2: 'Jane Austen',
+    quote2: 'There is no charm equal to tenderness of heart.',
   },
   {
     id: 49,
-    author2: "Pablo Neruda",
+    author2: 'Pablo Neruda',
     quote2:
-      "I love you as certain dark things are to be loved, in secret, between the shadow and the soul.",
+      'I love you as certain dark things are to be loved, in secret, between the shadow and the soul.',
   },
 ];
 let currentRElationship = 0;
@@ -1363,186 +1360,186 @@ function relationshipFunction() {
   author2.textContent = item2.author2;
   quote2.textContent = item2.quote2;
   currentRElationship = Math.floor(Math.random() * relationshipQuotes.length);
-  quote2.classList.remove("quoteAnimation"); // Remove old animation
+  quote2.classList.remove('quoteAnimation'); // Remove old animation
   void quote2.offsetWidth; // Force reflow (optional, for some browsers)
-  quote2.classList.add("quoteAnimation"); // Readd animation class
+  quote2.classList.add('quoteAnimation'); // Readd animation class
 }
 
-newquote2.addEventListener("click", relationshipFunction);
+newquote2.addEventListener('click', relationshipFunction);
 //  for mindset
 const mindsetQuotes = [
   {
     id: 1,
-    author3: "Oscar Wilde",
+    author3: 'Oscar Wilde',
     quote3:
-      "Keep love in your heart. A life without it is like a sunless garden when the flowers are dead.",
+      'Keep love in your heart. A life without it is like a sunless garden when the flowers are dead.',
   },
   {
     id: 2,
-    author3: "Walt Disney",
-    quote3: "The way to get started is to quit talking and begin doing.",
+    author3: 'Walt Disney',
+    quote3: 'The way to get started is to quit talking and begin doing.',
   },
   {
     id: 3,
-    author3: "Winston Churchill",
+    author3: 'Winston Churchill',
     quote3:
-      "The pessimist sees difficulty in every opportunity. The optimist sees opportunity in every difficulty.",
+      'The pessimist sees difficulty in every opportunity. The optimist sees opportunity in every difficulty.',
   },
   {
     id: 4,
-    author3: "Helen Keller",
+    author3: 'Helen Keller',
     quote3:
-      "The only thing worse than being blind is having sight but no vision.",
+      'The only thing worse than being blind is having sight but no vision.',
   },
   {
     id: 5,
-    author3: "Nelson Mandela",
+    author3: 'Nelson Mandela',
     quote3:
-      "The greatest glory in living lies not in never falling, but in rising every time we fall.",
+      'The greatest glory in living lies not in never falling, but in rising every time we fall.',
   },
   {
     id: 6,
-    author3: "Albert Einstein",
-    quote3: "In the middle of difficulty lies opportunity.",
+    author3: 'Albert Einstein',
+    quote3: 'In the middle of difficulty lies opportunity.',
   },
   {
     id: 7,
-    author3: "Maya Angelou",
+    author3: 'Maya Angelou',
     quote3:
-      "You may not control all the events that happen to you, but you can decide not to be reduced by them.",
+      'You may not control all the events that happen to you, but you can decide not to be reduced by them.',
   },
   {
     id: 8,
-    author3: "Mahatma Gandhi",
+    author3: 'Mahatma Gandhi',
     quote3:
-      "Live as if you were to die tomorrow. Learn as if you were to live forever.",
+      'Live as if you were to die tomorrow. Learn as if you were to live forever.',
   },
   {
     id: 9,
-    author3: "Martin Luther King Jr.",
+    author3: 'Martin Luther King Jr.',
     quote3:
-      "Darkness cannot drive out darkness; only light can do that. Hate cannot drive out hate; only love can do that.",
+      'Darkness cannot drive out darkness; only light can do that. Hate cannot drive out hate; only love can do that.',
   },
   {
     id: 10,
-    author3: "Mark Twain",
-    quote3: "The secret of getting ahead is getting started.",
+    author3: 'Mark Twain',
+    quote3: 'The secret of getting ahead is getting started.',
   },
   {
     id: 11,
-    author3: "Steve Jobs",
+    author3: 'Steve Jobs',
     quote3:
-      "Your work is going to fill a large part of your life, and the only way to be truly satisfied is to do what you believe is great work.",
+      'Your work is going to fill a large part of your life, and the only way to be truly satisfied is to do what you believe is great work.',
   },
   {
     id: 12,
-    author3: "Eleanor Roosevelt",
+    author3: 'Eleanor Roosevelt',
     quote3:
-      "The future belongs to those who believe in the beauty of their dreams.",
+      'The future belongs to those who believe in the beauty of their dreams.',
   },
   {
     id: 13,
-    author3: "Abraham Lincoln",
+    author3: 'Abraham Lincoln',
     quote3:
       "In the end, it's not the years in your life that count. It's the life in your years.",
   },
   {
     id: 14,
-    author3: "Mother Teresa",
+    author3: 'Mother Teresa',
     quote3:
-      "Spread love everywhere you go. Let no one ever come to you without leaving happier.",
+      'Spread love everywhere you go. Let no one ever come to you without leaving happier.',
   },
   {
     id: 15,
-    author3: "Franklin D. Roosevelt",
+    author3: 'Franklin D. Roosevelt',
     quote3:
-      "When you reach the end of your rope, tie a knot in it and hang on.",
+      'When you reach the end of your rope, tie a knot in it and hang on.',
   },
   {
     id: 16,
-    author3: "Margaret Mead",
+    author3: 'Margaret Mead',
     quote3:
-      "Never doubt that a small group of thoughtful, committed citizens can change the world.",
+      'Never doubt that a small group of thoughtful, committed citizens can change the world.',
   },
   {
     id: 17,
-    author3: "Albert Einstein",
-    quote3: "Strive not to be a success, but rather to be of value.",
+    author3: 'Albert Einstein',
+    quote3: 'Strive not to be a success, but rather to be of value.',
   },
   {
     id: 18,
-    author3: "John Lennon",
+    author3: 'John Lennon',
     quote3: "Life is what happens when you're busy making other plans.",
   },
   {
     id: 19,
-    author3: "Benjamin Franklin",
+    author3: 'Benjamin Franklin',
     quote3:
-      "Tell me and I forget. Teach me and I remember. Involve me and I learn.",
+      'Tell me and I forget. Teach me and I remember. Involve me and I learn.',
   },
   {
     id: 20,
-    author3: "Aristotle",
+    author3: 'Aristotle',
     quote3:
-      "It is during our darkest moments that we must focus to see the light.",
+      'It is during our darkest moments that we must focus to see the light.',
   },
   {
     id: 21,
-    author3: "Ralph Waldo Emerson",
+    author3: 'Ralph Waldo Emerson',
     quote3:
-      "Do not go where the path may lead, go instead where there is no path and leave a trail.",
+      'Do not go where the path may lead, go instead where there is no path and leave a trail.',
   },
   {
     id: 22,
-    author3: "Anne Frank",
-    quote3: "Whoever is happy will make others happy too.",
+    author3: 'Anne Frank',
+    quote3: 'Whoever is happy will make others happy too.',
   },
   {
     id: 23,
-    author3: "Helen Keller",
-    quote3: "Alone we can do so little; together we can do so much.",
+    author3: 'Helen Keller',
+    quote3: 'Alone we can do so little; together we can do so much.',
   },
   {
     id: 24,
-    author3: "Dalai Lama",
+    author3: 'Dalai Lama',
     quote3:
-      "Happiness is not something ready made. It comes from your own actions.",
+      'Happiness is not something ready made. It comes from your own actions.',
   },
   {
     id: 25,
-    author3: "George Bernard Shaw",
+    author3: 'George Bernard Shaw',
     quote3:
       "Life isn't about finding yourself. Life is about creating yourself.",
   },
   {
     id: 26,
-    author3: "Buddha",
-    quote3: "What we think, we become.",
+    author3: 'Buddha',
+    quote3: 'What we think, we become.',
   },
   {
     id: 27,
-    author3: "Confucius",
-    quote3: "It does not matter how slowly you go as long as you do not stop.",
+    author3: 'Confucius',
+    quote3: 'It does not matter how slowly you go as long as you do not stop.',
   },
   {
     id: 28,
-    author3: "Aesop",
-    quote3: "No act of kindness, no matter how small, is ever wasted.",
+    author3: 'Aesop',
+    quote3: 'No act of kindness, no matter how small, is ever wasted.',
   },
   {
     id: 29,
-    author3: "Vincent Van Gogh",
-    quote3: "I dream my painting and I paint my dream.",
+    author3: 'Vincent Van Gogh',
+    quote3: 'I dream my painting and I paint my dream.',
   },
   {
     id: 30,
-    author3: "Thomas A. Edison",
+    author3: 'Thomas A. Edison',
     quote3: "I have not failed. I've just found 10,000 ways that won't work.",
   },
 ];
-const quote3 = document.querySelector(".quote3");
-const author3 = document.querySelector(".author3");
-const newquote3 = document.querySelector(".newquote3");
+const quote3 = document.querySelector('.quote3');
+const author3 = document.querySelector('.author3');
+const newquote3 = document.querySelector('.newquote3');
 
 currentMindset = 0;
 function mindsetFunction() {
@@ -1550,130 +1547,130 @@ function mindsetFunction() {
   author3.textContent = item3.author3;
   quote3.textContent = item3.quote3;
   currentMindset = Math.floor(Math.random() * mindsetQuotes.length);
-  quote3.classList.remove("quoteAnimation"); // Remove old animation
+  quote3.classList.remove('quoteAnimation'); // Remove old animation
   void quote3.offsetWidth; // Force reflow (optional, for some browsers)
-  quote3.classList.add("quoteAnimation"); // Readd animation class
+  quote3.classList.add('quoteAnimation'); // Readd animation class
 }
-newquote3.addEventListener("click", mindsetFunction);
+newquote3.addEventListener('click', mindsetFunction);
 
 // creativity quotes
-const quote4 = document.querySelector(".quote4");
-const author4 = document.querySelector(".author4");
-const newquote4 = document.querySelector(".newquote4");
+const quote4 = document.querySelector('.quote4');
+const author4 = document.querySelector('.author4');
+const newquote4 = document.querySelector('.newquote4');
 
 const creativityQuotes = [
   {
     id: 1,
-    author4: "Steve Jobs",
-    quote4: "Innovation distinguishes between a leader and a follower.",
+    author4: 'Steve Jobs',
+    quote4: 'Innovation distinguishes between a leader and a follower.',
   },
   {
     id: 2,
-    author4: "Albert Einstein",
-    quote4: "Imagination is more important than knowledge.",
+    author4: 'Albert Einstein',
+    quote4: 'Imagination is more important than knowledge.',
   },
   {
     id: 3,
-    author4: "Henry Ford",
+    author4: 'Henry Ford',
     quote4:
-      "If I had asked people what they wanted, they would have said faster horses.",
+      'If I had asked people what they wanted, they would have said faster horses.',
   },
   {
     id: 4,
-    author4: "Richard Branson",
+    author4: 'Richard Branson',
     quote4:
       "You don't learn to walk by following rules. You learn by doing, and by falling over.",
   },
   {
     id: 5,
-    author4: "Elon Musk",
+    author4: 'Elon Musk',
     quote4:
-      "When something is important enough, you do it even if the odds are not in your favor.",
+      'When something is important enough, you do it even if the odds are not in your favor.',
   },
   {
     id: 6,
-    author4: "Walt Disney",
-    quote4: "The way to get started is to quit talking and begin doing.",
+    author4: 'Walt Disney',
+    quote4: 'The way to get started is to quit talking and begin doing.',
   },
   {
     id: 7,
-    author4: "Mark Zuckerberg",
+    author4: 'Mark Zuckerberg',
     quote4:
       "The biggest risk is not taking any risk. In a world that's changing really quickly, the only strategy that is guaranteed to fail is not taking risks.",
   },
   {
     id: 8,
-    author4: "Jeff Bezos",
+    author4: 'Jeff Bezos',
     quote4:
       "I knew that if I failed I wouldn't regret that, but I knew the one thing I might regret is not trying.",
   },
   {
     id: 9,
-    author4: "Bill Gates",
+    author4: 'Bill Gates',
     quote4:
       "It's fine to celebrate success but it is more important to heed the lessons of failure.",
   },
   {
     id: 10,
-    author4: "Oprah Winfrey",
-    quote4: "Turn your wounds into wisdom.",
+    author4: 'Oprah Winfrey',
+    quote4: 'Turn your wounds into wisdom.',
   },
   {
     id: 11,
-    author4: "Warren Buffett",
+    author4: 'Warren Buffett',
     quote4: "Risk comes from not knowing what you're doing.",
   },
   {
     id: 12,
-    author4: "Larry Page",
-    quote4: "Always deliver more than expected.",
+    author4: 'Larry Page',
+    quote4: 'Always deliver more than expected.',
   },
   {
     id: 13,
-    author4: "Howard Schultz",
+    author4: 'Howard Schultz',
     quote4:
-      "Risk more than others think is safe. Dream more than others think is practical.",
+      'Risk more than others think is safe. Dream more than others think is practical.',
   },
   {
     id: 14,
-    author4: "Jack Ma",
+    author4: 'Jack Ma',
     quote4:
-      "You should learn from your competitor, but never copy. Copy and you die.",
+      'You should learn from your competitor, but never copy. Copy and you die.',
   },
   {
     id: 15,
-    author4: "Marissa Mayer",
+    author4: 'Marissa Mayer',
     quote4:
       "I always did something I was a little not ready to do. I think that's how you grow.",
   },
   {
     id: 16,
-    author4: "Indra Nooyi",
+    author4: 'Indra Nooyi',
     quote4:
       "Just because you are CEO, don't think you have landed. You must continually increase your learning, the way you think, and the way you approach the organization.",
   },
   {
     id: 17,
-    author4: "Satya Nadella",
+    author4: 'Satya Nadella',
     quote4:
-      "Our industry does not respect tradition - it only respects innovation.",
+      'Our industry does not respect tradition - it only respects innovation.',
   },
   {
     id: 18,
-    author4: "Sundar Pichai",
+    author4: 'Sundar Pichai',
     quote4:
-      "A person who is happy is not because everything is right in his life, he is happy because his attitude towards everything in his life is right.",
+      'A person who is happy is not because everything is right in his life, he is happy because his attitude towards everything in his life is right.',
   },
   {
     id: 19,
-    author4: "Tim Cook",
-    quote4: "Let your joy be in your journey - not in some distant goal.",
+    author4: 'Tim Cook',
+    quote4: 'Let your joy be in your journey - not in some distant goal.',
   },
   {
     id: 20,
-    author4: "Sheryl Sandberg",
+    author4: 'Sheryl Sandberg',
     quote4:
-      "Trying to do it all and expecting that it all can be done exactly right is a recipe for disappointment. Perfection is the enemy.",
+      'Trying to do it all and expecting that it all can be done exactly right is a recipe for disappointment. Perfection is the enemy.',
   },
 ];
 currentCreativity = 0;
@@ -1682,130 +1679,130 @@ function creativityFunction() {
   author4.textContent = item4.author4;
   quote4.textContent = item4.quote4;
   currentCreativity = Math.floor(Math.random() * creativityQuotes.length);
-  quote4.classList.remove("quoteAnimation"); // Remove old animation
+  quote4.classList.remove('quoteAnimation'); // Remove old animation
   void quote4.offsetWidth; // Force reflow (optional, for some browsers)
-  quote4.classList.add("quoteAnimation"); // Readd animation class
+  quote4.classList.add('quoteAnimation'); // Readd animation class
 }
-newquote4.addEventListener("click", creativityFunction);
+newquote4.addEventListener('click', creativityFunction);
 
 // for success
-const quote5 = document.querySelector(".quote5");
-const author5 = document.querySelector(".author5");
-const newquote5 = document.querySelector(".newquote5");
+const quote5 = document.querySelector('.quote5');
+const author5 = document.querySelector('.author5');
+const newquote5 = document.querySelector('.newquote5');
 
 const successQuotes = [
   {
     id: 1,
-    author5: "Steve Jobs",
-    quote5: "Innovation distinguishes between a leader and a follower.",
+    author5: 'Steve Jobs',
+    quote5: 'Innovation distinguishes between a leader and a follower.',
   },
   {
     id: 2,
-    author5: "Albert Einstein",
-    quote5: "Imagination is more important than knowledge.",
+    author5: 'Albert Einstein',
+    quote5: 'Imagination is more important than knowledge.',
   },
   {
     id: 3,
-    author5: "Henry Ford",
+    author5: 'Henry Ford',
     quote5:
-      "If I had asked people what they wanted, they would have said faster horses.",
+      'If I had asked people what they wanted, they would have said faster horses.',
   },
   {
     id: 4,
-    author5: "Richard Branson",
+    author5: 'Richard Branson',
     quote5:
       "You don't learn to walk by following rules. You learn by doing, and by falling over.",
   },
   {
     id: 5,
-    author5: "Elon Musk",
+    author5: 'Elon Musk',
     quote5:
-      "When something is important enough, you do it even if the odds are not in your favor.",
+      'When something is important enough, you do it even if the odds are not in your favor.',
   },
   {
     id: 6,
-    author5: "Walt Disney",
-    quote5: "The way to get started is to quit talking and begin doing.",
+    author5: 'Walt Disney',
+    quote5: 'The way to get started is to quit talking and begin doing.',
   },
   {
     id: 7,
-    author5: "Mark Zuckerberg",
+    author5: 'Mark Zuckerberg',
     quote:
       "The biggest risk is not taking any risk. In a world that's changing really quickly, the only strategy that is guaranteed to fail is not taking risks.",
   },
   {
     id: 8,
-    author5: "Jeff Bezos",
+    author5: 'Jeff Bezos',
     quote5:
       "I knew that if I failed I wouldn't regret that, but I knew the one thing I might regret is not trying.",
   },
   {
     id: 9,
-    author5: "Bill Gates",
+    author5: 'Bill Gates',
     quote5:
       "It's fine to celebrate success but it is more important to heed the lessons of failure.",
   },
   {
     id: 10,
-    author5: "Oprah Winfrey",
-    quote5: "Turn your wounds into wisdom.",
+    author5: 'Oprah Winfrey',
+    quote5: 'Turn your wounds into wisdom.',
   },
   {
     id: 11,
-    author5: "Warren Buffett",
+    author5: 'Warren Buffett',
     quote5: "Risk comes from not knowing what you're doing.",
   },
   {
     id: 12,
-    author5: "Larry Page",
-    quote5: "Always deliver more than expected.",
+    author5: 'Larry Page',
+    quote5: 'Always deliver more than expected.',
   },
   {
     id: 13,
-    author5: "Howard Schultz",
+    author5: 'Howard Schultz',
     quote5:
-      "Risk more than others think is safe. Dream more than others think is practical.",
+      'Risk more than others think is safe. Dream more than others think is practical.',
   },
   {
     id: 14,
-    author5: "Jack Ma",
+    author5: 'Jack Ma',
     quote5:
-      "You should learn from your competitor, but never copy. Copy and you die.",
+      'You should learn from your competitor, but never copy. Copy and you die.',
   },
   {
     id: 15,
-    author5: "Marissa Mayer",
+    author5: 'Marissa Mayer',
     quote5:
       "I always did something I was a little not ready to do. I think that's how you grow.",
   },
   {
     id: 16,
-    author5: "Indra Nooyi",
+    author5: 'Indra Nooyi',
     quote5:
       "Just because you are CEO, don't think you have landed. You must continually increase your learning, the way you think, and the way you approach the organization.",
   },
   {
     id: 17,
-    author5: "Satya Nadella",
+    author5: 'Satya Nadella',
     quote5:
-      "Our industry does not respect tradition - it only respects innovation.",
+      'Our industry does not respect tradition - it only respects innovation.',
   },
   {
     id: 18,
-    author5: "Sundar Pichai",
+    author5: 'Sundar Pichai',
     quote5:
-      "A person who is happy is not because everything is right in his life, he is happy because his attitude towards everything in his life is right.",
+      'A person who is happy is not because everything is right in his life, he is happy because his attitude towards everything in his life is right.',
   },
   {
     id: 19,
-    author5: "Tim Cook",
-    quote5: "Let your joy be in your journey - not in some distant goal.",
+    author5: 'Tim Cook',
+    quote5: 'Let your joy be in your journey - not in some distant goal.',
   },
   {
     id: 20,
-    author5: "Sheryl Sandberg",
+    author5: 'Sheryl Sandberg',
     quote5:
-      "Trying to do it all and expecting that it all can be done exactly right is a recipe for disappointment. Perfection is the enemy.",
+      'Trying to do it all and expecting that it all can be done exactly right is a recipe for disappointment. Perfection is the enemy.',
   },
 ];
 currentSuccess = 0;
@@ -1814,40 +1811,106 @@ function successFunction() {
   author5.textContent = item5.author5;
   quote5.textContent = item5.quote5;
   currentSuccess = Math.floor(Math.random() * successQuotes.length);
-  quote5.classList.remove("quoteAnimation"); // Remove old animation
+  quote5.classList.remove('quoteAnimation'); // Remove old animation
   void quote5.offsetWidth; // Force reflow (optional, for some browsers)
-  quote5.classList.add("quoteAnimation"); // Readd animation class
+  quote5.classList.add('quoteAnimation'); // Readd animation class
 }
-newquote5.addEventListener("click", successFunction);
+newquote5.addEventListener('click', successFunction);
 
 //  wisdom quotes
 
 function fetchQuote() {
-   console.log('it is working');
-   fetch("https://api.quotable.io/random")
-     .then((response) => response.json())
-     .then((data) => {
-       // Update the quote and author elements with the fetched data
-       const quoteElement = document.querySelector(".quote6");
-       const authorElement = document.querySelector(".author6");
+  console.log('it is working');
+  fetch('https://api.quotable.io/random')
+    .then((response) => response.json())
+    .then((data) => {
+      // Update the quote and author elements with the fetched data
+      const quoteElement = document.querySelector('.quote6');
+      const authorElement = document.querySelector('.author6');
 
-       // Update the HTML content with the fetched quote and author
-       quoteElement.innerHTML = `"${data.content}"`;
-       authorElement.innerHTML = data.author;
-     })
-     .catch((error) => console.error("Error fetching quote:", error));
- }
+      // Update the HTML content with the fetched quote and author
+      quoteElement.innerHTML = `"${data.content}"`;
+      authorElement.innerHTML = data.author;
+    })
+    .catch((error) => console.error('Error fetching quote:', error));
+}
 
- // Initial call to fetch a quote when the page loads
- fetchQuote();
+// Initial call to fetch a quote when the page loads
+fetchQuote();
 
- // Add event listener to the button to fetch a new quote when clicked
-document.querySelector(".newquote6").addEventListener("click", function () {
-  fetchQuote
+// Add event listener to the button to fetch a new quote when clicked
+document.querySelector('.newquote6').addEventListener('click', function () {
+  fetchQuote;
 });
 
 // for video hero speed
- window.addEventListener('load', function () {
-   const video = document.getElementById('heroVideo');
-   video.playbackRate = 0.8; // Set desired speed here, e.g., 0.5 for half speed
- });
+window.addEventListener('load', function () {
+  const video = document.getElementById('heroVideo');
+  video.playbackRate = 0.8; // Set desired speed here, e.g., 0.5 for half speed
+});
+
+//  handling   kara initaitive form submisssion
+
+const express = require('express'); // Import the Express framework
+const mysql = require('mysql'); // Import MySQL module
+const bodyParser = require('body-parser'); // Import body-parser to parse form data
+
+const app = express(); // Create an Express application
+const port = 3000; // Set the server port
+
+// Middleware to parse incoming request bodies
+app.use(bodyParser.urlencoded({ extended: true })); // For parsing URL-encoded data
+app.use(bodyParser.json()); // For parsing JSON data
+
+// Create a MySQL connection
+const connection = mysql.createConnection({
+  host: 'localhost', // MySQL host
+  user: 'root', // Your MySQL username
+  password: 'Modsiwarak123.', // Your MySQL password
+  database: 'help_requests', // Your MySQL database name
+});
+
+// Connect to the MySQL database
+connection.connect((err) => {
+  if (err) {
+    console.error('Error connecting to MySQL:', err.stack);
+    return;
+  }
+  console.log('Connected to MySQL.');
+});
+
+// Handle POST requests to the /submit endpoint
+app.post('/submit', (req, res) => {
+  const {
+    'alias-name': alias_name,
+    'help-description': help_description,
+    'phone-number': phone_number,
+    email,
+  } = req.body; // Use the correct names
+
+  // Insert the form data into the MySQL database
+  const query =
+    'INSERT INTO requests (alias_name, help_description, phone_number, email) VALUES (?, ?, ?, ?)';
+  connection.query(
+    query,
+    [alias_name, help_description, phone_number, email],
+    (error, results) => {
+      if (error) {
+        console.error('Error inserting data:', error);
+        return res.status(500).json({ error: 'Failed to insert data' });
+      }
+      res.status(200).json({ message: 'Data submitted successfully!' }); // Respond with success message
+    }
+  );
+});
+
+// Start the server
+app.listen(port, () => {
+  console.log(`Server is running on http://localhost:${port}`); // Log server start
+});
+
+app.post('/submit-help', (req, res) => {
+  // Handle the form submission
+  console.log(req.body); // Access form data here
+  res.send('Form submitted!');
+});
